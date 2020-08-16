@@ -1,0 +1,13 @@
+.recipe li{
+  padding: 8px;
+  margin: 8px
+}
+
+.recipe h3{
+  padding: 10px;
+  margin: 10px
+}
+
+.recipe img{
+  max-width:80%;
+}

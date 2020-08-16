@@ -1,0 +1,10 @@
+.recipeList{
+  vertical-align:top;
+  display: inline-block;
+  position: relative;
+  padding: 20px;
+  top: 0;
+  margin: 20px;
+  min-height: 500px;
+  width: 50%;
+}
